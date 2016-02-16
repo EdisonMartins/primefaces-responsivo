@@ -6,3 +6,15 @@ $(document).ready(function() {
 	});
 	
 });
+
+
+
+
+/* Menu quando clicado is-selected*/
+/*$(document).ready(function() {
+	
+	$('.js-link-menu-2').bind('click', function() {
+		$('.js-link-menu-2').toggleClass('is-selected');
+	});
+	
+});*/
